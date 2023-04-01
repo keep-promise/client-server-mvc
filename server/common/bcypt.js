@@ -1,6 +1,6 @@
 const bcrypt = require('bcrypt');
 
-const SALT_ROUNDS = 1O;
+const SALT_ROUNDS = 10;
 
 const bcryptPassword = (password) => {
   return new Promise((resolve, reject) => {

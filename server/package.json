@@ -1,5 +1,5 @@
 {
-  "name": "markdown-toolbox-server",
+  "name": "client-server-mvc",
   "version": "1.0.0",
   "description": "markdown-web工具箱服务端",
   "main": "index.js",
